@@ -90,9 +90,7 @@ body, input, button{
 .container  .content .profile .info {
   font-size: 2rem;
 }
-.container  .content .profile .info strong {
- 
-}
+
 
 .container  .content .profile p {
   font-size: 0.7rem;
@@ -139,9 +137,6 @@ body, input, button{
   
 }
 
-/* .contact .icons .itemIcon :hover {
-  background: ;
-} */
 
 
 
@@ -175,14 +170,14 @@ body, input, button{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 5rem;
+  margin-top: 7rem;
   
 }
 
 .infoFoter {
   position: relative;
   width: 200px;
-  height: 50px;
+  height: 70px;
   display: flex;
   align-items: center;
   align-items: center;
