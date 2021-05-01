@@ -110,6 +110,7 @@ body, input, button{
 
 .contact {
   margin-top: 1rem;
+  font-family: Roboto, sans-serif;
   
 }
 
@@ -144,7 +145,7 @@ body, input, button{
 
 .profile {
   position: relative;
-  width: 200px;
+  width: 300px;
   height: 120px;
   display: flex;
   justify-content: center;
@@ -170,17 +171,19 @@ body, input, button{
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 7rem;
+  margin-top: 9rem;
   
 }
 
 .infoFoter {
   position: relative;
   width: 200px;
-  height: 70px;
+  height: 90px;
   display: flex;
   align-items: center;
-  align-items: center;
+  justify-content: center;
+  text-align: center;
+ 
 }
 
 .infoFoter  {
