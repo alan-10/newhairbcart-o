@@ -29,7 +29,7 @@ body, input, button{
   max-width: 600px;
   width: 100%;
   
-  margin: 5rem 1rem 0 1rem;
+  margin: 7rem 1rem 0 1rem;
 }
 .content {
   color: #fff;
@@ -72,18 +72,7 @@ body, input, button{
 .content::after {
   background: linear-gradient(235deg,#89ff00,#060c21,#00bcd4);
 }
-/* 
- .profile {
-  text-align: center;
-  align-items: center;
-  margin-left: 1rem;
 
-
-  width: 15rem;
-  height: 10rem;
-
-  
-} */
 
 
 
