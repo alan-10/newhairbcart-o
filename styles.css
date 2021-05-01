@@ -183,7 +183,7 @@ body, input, button{
   align-items: center;
   justify-content: center;
   text-align: center;
- 
+ font-family: Nunito, sans-serif;
 }
 
 .infoFoter  {
