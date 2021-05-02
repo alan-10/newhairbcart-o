@@ -108,7 +108,7 @@ body, input, button{
   align-items: center;
   justify-content: center;
   margin-top: 1rem;
-  gap: 4px;
+  gap: 6px;
 }
 .contact .icons .itemIcon {
   width: 45px;
